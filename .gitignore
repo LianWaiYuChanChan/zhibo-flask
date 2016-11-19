@@ -1,0 +1,7 @@
+.tox
+.cache
+# Setuptools distribution folder.
+dist
+# Compiled python modules.
+*.pyc
+.idea
