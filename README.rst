@@ -5,12 +5,9 @@ Zhibo web server based on Python and Flask
 
 .. contents:: Contents
 
-What is reStructuredText?
-~~~~~~~~~~~~~~~~~~~~~~~~~
-- Python
-- Flask
-- Pytest
-- Flask_restful
+Introduction
+~~~~~~~~~~~~
+Use Python + Flask + Flask_restful to build a RESTful API servie.
 
 Test
 ~~~~
