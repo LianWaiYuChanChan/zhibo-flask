@@ -5,3 +5,4 @@ dist
 # Compiled python modules.
 *.pyc
 .idea
+MANIFEST
