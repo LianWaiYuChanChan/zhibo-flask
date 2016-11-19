@@ -15,6 +15,7 @@ What is reStructuredText?
 Test
 ~~~~
 - Test can use requests lib: http://flask-restful.readthedocs.io/en/0.3.5/quickstart.html#resourceful-routing
+- post('http://localhost:5000/account', json = {"password":"123","username":"user_name"}).json()
 
 References
 ~~~~~~~~~~
