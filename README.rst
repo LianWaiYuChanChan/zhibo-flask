@@ -5,6 +5,11 @@ Zhibo web server based on Python and Flask
 
 .. contents:: Contents
 
+Build Status
+~~~~~~~~~~~~
+.. image:: https://travis-ci.org/LianWaiYuChanChan/zhibo-flask.svg?branch=master
+    :target: https://travis-ci.org/LianWaiYuChanChan/zhibo-flask
+
 Introduction
 ~~~~~~~~~~~~
 Use Python + Flask + Flask_restful to build a RESTful API servie.
